@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Burak 👋</h1>
+<h1 align="center"> I am Burak 👋</h1>
 
 <p align="center">
   🎓 <b>Software & Computer Engineering</b> double major student.<br>
