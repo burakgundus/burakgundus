@@ -21,6 +21,14 @@
 
 ---
 
+### ✍️ Latest Articles
+
+* 📝 **[“Ama Bende Çalışıyordu!” Sorununa Son: Docker, Poetry ve Pre-commit ile Standart Geliştirme Ortamı Kurmak]
+https://medium.com/@burakgunduss/ama-bende-%C3%A7al%C4%B1%C5%9F%C4%B1yordu-sorununa-son-docker-poetry-ve-pre-commit-ile-geli%C5%9Ftirme-ortam%C4%B1-b6e0710e2c14**  
+  *Ekip içi yazılım ve MLOps projelerinde ortam krizlerini önleyen Docker Compose, PostgreSQL, MLflow ve Poetry kurulum rehberi.*
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
